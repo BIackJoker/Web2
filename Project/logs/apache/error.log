@@ -1,8 +1,0 @@
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bcc2:bf00:444d:2566. Set the 'ServerName' directive globally to suppress this message
-[Fri Mar 22 23:39:05.328631 2024] [mpm_winnt:notice] [pid 33676:tid 804] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
-[Fri Mar 22 23:39:05.331167 2024] [mpm_winnt:notice] [pid 33676:tid 804] AH00456: Server built: Apr 21 2020 13:46:54
-[Fri Mar 22 23:39:05.331167 2024] [core:notice] [pid 33676:tid 804] AH00094: Command line: 'C:\\Users\\jmitc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/jmitc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\jmitc\\AppData\\Roaming\\Local\\run\\m8EpTZ-K-\\conf\\apache\\apache2.conf'
-[Fri Mar 22 23:39:05.340781 2024] [mpm_winnt:notice] [pid 33676:tid 804] AH00418: Parent: Created child process 16028
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bcc2:bf00:444d:2566. Set the 'ServerName' directive globally to suppress this message
-AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::bcc2:bf00:444d:2566. Set the 'ServerName' directive globally to suppress this message
-[Fri Mar 22 23:39:05.972662 2024] [mpm_winnt:notice] [pid 16028:tid 804] AH00354: Child: Starting 64 worker threads.
